@@ -46,6 +46,25 @@ A consolidated excel file combining all analysis data, with columns:
 - lime_features: Top contributing features from LIME analysis
 - error_analysis: Misclassification details (where applicable)
 
+## Requirements
+
+Python 3.7+
+pandas
+matplotlib
+PIL (Python Imaging Library)
+
+## Citation
+If you use this dataset in your research, please cite:
+@inproceedings{kenneth2024explaining,
+  title={Explaining Humour Style Classifications: An XAI Approach to Understanding Computational Humour Analysis},
+  author={Kenneth, Mary Ogbuka and Khosmood, Foaad and Edalat, Abbas},
+  booktitle={Journal of Data Mining and Digital Humanities},
+  year={2024}
+}
+
+## License
+This dataset is released under MIT License.You can read more about it at https://opensource.org/license/MIT.
+
 ## Usage
 
 The data can be loaded and analyzed using standard Python libraries:
@@ -68,3 +87,4 @@ img = Image.open('LIME_plots/plots/lime_explanation_0001.png')
 plt.imshow(img)
 plt.axis('off')
 plt.show()
+
