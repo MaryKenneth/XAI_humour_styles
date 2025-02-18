@@ -3,11 +3,10 @@
 This repository contains the eXplainable AI (XAI) analysis data for humor style classification, accompanying the paper "Explaining Humour Style Classifications: An XAI Approach to Understanding Computational Humour Analysis" (2024).
 
 ## Repository Structure
-.
-├── LIME_plots/             # LIME visualization plots for all analyzed jokes
-├── linguistic_affective_analysis_json/  # Individual JSON files for each joke
-├── XAI.xlsx                # Combined analysis data
-└── README.md
+- ├── LIME_plots/             # LIME visualization plots for all analyzed jokes
+- ├── linguistic_affective_analysis_json/  # Individual JSON files for each joke
+- ├── XAI.xlsx                # Combined analysis data
+- └── README.md
 
 ## Dataset Description
 
