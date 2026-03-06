@@ -54,13 +54,15 @@ matplotlib
 PIL (Python Imaging Library)
 
 ## Citation
-If you use this dataset in your research, please cite:
+If you use this dataset or codes in your research/application, please cite:
+```bibtex
 @inproceedings{kenneth2024explaining,
   title={Explaining Humour Style Classifications: An XAI Approach to Understanding Computational Humour Analysis},
   author={Kenneth, Mary Ogbuka and Khosmood, Foaad and Edalat, Abbas},
   booktitle={Journal of Data Mining and Digital Humanities},
   year={2024}
 }
+```
 
 ## License
 This dataset is released under MIT License.You can read more about it at https://opensource.org/license/MIT.
