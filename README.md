@@ -60,7 +60,7 @@ If you use this dataset or codes in your research/application, please cite:
   title={Explaining Humour Style Classifications: An XAI Approach to Understanding Computational Humour Analysis},
   author={Kenneth, Mary Ogbuka and Khosmood, Foaad and Edalat, Abbas},
   booktitle={Journal of Data Mining and Digital Humanities},
-  year={2024}
+  year={2025}
 }
 ```
 
